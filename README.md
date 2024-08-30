@@ -11,6 +11,13 @@ SPM is very much a work-in-progress as I will add a server to upload dependecies
 - Ensures that dependencies are properly loaded and managed.
 - Easier library managment.
 
+## TO DO
+- Add a new server
+- Read configuration files and check versions of dependencies
+- Seamlessly integrate with Visual Studio Code (VSC)
+- Optimize libraries by using shared dependencies where possible
+- Much more
+
 ## Example Transformation
 
 SPM transforms the following Lua code:
