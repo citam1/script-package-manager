@@ -3,6 +3,7 @@
 # WIP
 
 Script Packet Manager (SPM) is a tool for transforming Lua scripts that use the `require` syntax to a custom format. This is useful for managing dependencies in a controlled environment and avoiding the use of global variables.
+SPM is very much a work-in-progress as I will add a server to upload dependecies and optimize the code.
 
 ## Features
 
