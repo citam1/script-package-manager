@@ -53,3 +53,11 @@ end
 print(x.func());
 ```
 
+# USAGE
+
+Build the source by using the rust compiler, put the exe into your folder with lua scripts, all dependencies MUST in the spm_modules folder and the folder MUST be in the same dir as the exe.
+
+```
+spm.exe build <PATH_TO_SOURCE>
+```
+
